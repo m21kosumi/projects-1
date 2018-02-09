@@ -34,6 +34,10 @@ Final projects by the members
 * 優 昌晟
   「[機械学習を用いた為替相場分析についての先行調査](https://github.com/4kizuki/files/blob/master/seminar.pdf)」  
   機械学習による為替相場予測について、先行研究を調査し、今後の卒論執筆に向けた展望を示した。
+  
+* 小住 真央
+　「[研究計画：動的計画法への行動経済学の応用](https://github.com/m21kosumi/projects/blob/master/%E7%A0%94%E7%A9%B6%E8%A8%88%E7%94%BB.pdf)」
+  動的計画法に非合理的行動を引き起こす誘因を導入し、意思決定への影響を分析する研究についての計画。
 
 ## 2016年度
 
