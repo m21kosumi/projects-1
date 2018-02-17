@@ -36,6 +36,10 @@
 * 高橋 雅士
   「[労働市場におけるシグナリング理論の実証](https://github.com/masashitshit/exercises2017/blob/master/seminar_thesis.pdf)」  
   労働市場におけるシグナリング理論の実証・実験について先行研究の調査、手法の考察等の研究計画を行った。
+  
+* 小住 真央
+　「[研究計画：動的計画法への行動経済学の導入](https://github.com/m21kosumi/myproject/blob/master/%E7%A0%94%E7%A9%B6%E8%A8%88%E7%94%BB.pdf)」
+  経済主体に関する前提を崩すことでシミュレーションの結果に生まれる変化についての先行研究と今後の課題について。
 
 ## 2016年度
 
